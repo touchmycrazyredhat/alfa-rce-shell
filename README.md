@@ -3,4 +3,4 @@ Alfa-perl-rce-auto-upload-shell-in-python
 ```
 python3 alfaup.py
 ```
-![screen](screenshot_2022-07-05-07-42-28-017_com.termux.jpg) 
+![screen](Screenshot_2022-07-05-07-42-28-017_com.termux.jpg) 
