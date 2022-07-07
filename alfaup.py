@@ -5,7 +5,7 @@ import string
 import random
 import time
 
-os.system("title " + "Scanner V1.1 - KiKo ")
+os.system("title " + "Scanner V1.1 - trhacknon ")
 
 try:
     print('Checking Requirements.....')
