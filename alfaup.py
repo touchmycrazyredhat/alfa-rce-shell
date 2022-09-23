@@ -91,7 +91,7 @@ banner = f"""
 {reset} Device : {sysinfo}
 {hijau}   _   _   _   _   _   _   _   _   _   _   
 {hijau}  / \ / \ / \ / \ / \ / \ / \ / \ / \ / \  {reset}Author  : Trhacknon
-{hijau} ( R | A | D | I | C | A | L | I | V | 1 ) {reset}Auto Upload Shell
+{hijau} ( T | R | H | A | C | K | N | O | N | 1 ) {reset}Auto Upload Shell
 {hijau}  \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/  {reset}
 """
 if __name__ == '__main__':
